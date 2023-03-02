@@ -14,6 +14,28 @@ My research interests mainly focus on deep learning and computer vision. I am al
 
 Here is my [Curriculum Vitae](http://yuqi-miao.github.io/files/CN-CV.pdf) in Chinese.
 
+Education
+======
+* B.S. in Data Science and Big Data Technology, Najing University of Information Science and Technology, 2019-2023
+* M.S. in Computer Science, Tongji University, 2023-2026 (expected)
+
+Skills
+======
+* Pytorch
+* Computer vision and Deep learning
+
+Awards
+======
+* National Scholarship for Undergraduate Students 2022
+* Undergraduate Principal Scholarship (Top 0.2%) 2022
+* Undergraduate three good student pacesetters (Top 1%) 2020 2021 2022
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 <!--哈哈我是注释，不会在浏览器中显示。
 A data-driven personal website
 ======
